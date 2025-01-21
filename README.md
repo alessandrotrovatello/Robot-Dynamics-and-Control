@@ -4,8 +4,9 @@ This repository contains some exercises completed during the _Robot Dynamics and
 
 ## [2R Planar Robot](https://github.com/alessandrotrovatello/Robot-Dynamics-and-Control/tree/main/2R_planar_robot)
 
-
 In this folder there are some exercises on a **Planar Robot** with 2 **revolute** joints.
+
+![image](https://github.com/user-attachments/assets/afa6b5bb-ffee-4e74-93ef-3cde9877a974)
 
 The set of parameters of the model are as follows:
 
@@ -32,6 +33,8 @@ Implement the Computed Torque control law using the Robotics System Toolbox bloc
 ## [2R Spatial Robot](https://github.com/alessandrotrovatello/Robot-Dynamics-and-Control/tree/main/2R_spatial_robot)
 
 Here, the robot is considered in 3D space. With respect to the previous model, the second joint axis is orthogonal to first joint axis. The gravity act along the y-axis of the world frame, with negative direction.
+
+![image](https://github.com/user-attachments/assets/ad013649-afa0-44a3-ae66-34c9ae8df0fe)
 
 The set of parameters of the model are as follows:
 
