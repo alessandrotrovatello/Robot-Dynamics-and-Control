@@ -2,6 +2,8 @@
 
 This repository contains some exercises completed during the _Robot Dynamics and Control_ course at the University of Genoa.
 
+All scripts are executed on MATLAB Simulink.
+
 ## [2R Planar Robot](https://github.com/alessandrotrovatello/Robot-Dynamics-and-Control/tree/main/2R_planar_robot)
 
 In this folder there are some exercises on a **Planar Robot** with 2 **revolute** joints.
